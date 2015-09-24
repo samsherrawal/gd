@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -17,3 +18,7 @@ http://www.youtube.com/user/c9ide.
 Happy coding!
 The Cloud9 IDE team
 
+=======
+# gd
+My first git project
+>>>>>>> 4b56007cac24d9e9db5b6c58bc56e034d0b4fae7
