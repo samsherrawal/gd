@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  advisor_id: MyString
+  : 1
+  advisee_id: MyString
+  : 1
+  appointment_date: MyString
+  : 2015-11-18 03:41:05
+
+two:
+  advisor_id: MyString
+  : 1
+  advisee_id: MyString
+  : 1
+  appointment_date: MyString
+  : 2015-11-18 03:41:05

@@ -1,0 +1,9 @@
+%h1 Group: Natural Born Killers
+%h1 Group Members: Samsher Rawal, Devendra Thakur, Tianxiang Liu
+%h1 Advisees: index
+%p This is an app to display appointments. 
+%p Here are all of the advisees: 
+%ul
+    = @advisees.each do |advisee|
+        %li= link_to advisee.name
+

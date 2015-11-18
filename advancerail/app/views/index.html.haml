@@ -1,0 +1,7 @@
+%h1 Group: Natural Born Killers
+%h1 Group Members: Samsher Rawal, Devendra Thakur, Tianxiang Liu
+%p This is an app to display appointments. 
+= form_tag "show_appointmnets", method: :get do 
+  = collection_select(:advisees, :id, @advisees.all, :id, :name_with_id)
+  = submit_tag "Get this advisees' appointmentsrails "
+ 
